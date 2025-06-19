@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaveeGitHub
+- 👋 Hi, I’m @BlueWave
 - 👀 I’m interested in python and arduino programming
 - 🌱 I’m currently learning arduino and python
 - 💞️ I’m looking to collaborate on machine learning and AI and nano tech
